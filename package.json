@@ -1,0 +1,22 @@
+{
+  "name": "simple",
+  "version": "0.0.1",
+  "description": "organise your life. use simp.le",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheAwesomeGuy47/simp.le.git"
+  },
+  "author": "TheAwesomeGuy47",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheAwesomeGuy47/simp.le/issues"
+  },
+  "homepage": "https://github.com/TheAwesomeGuy47/simp.le#readme",
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  }
+}
